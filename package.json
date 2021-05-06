@@ -28,7 +28,7 @@
     "redux": "^4.0.0",
     "redux-thunk": "^2.3.0",
     "typescript": "~3.1.6",
-    "underscore": "~1.9.x"
+    "underscore": "~1.12.x"
   },
   "repository": {
     "type": "git",
